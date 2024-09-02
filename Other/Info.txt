@@ -1,1 +1,11 @@
 https://www.facebook.com/people/Association-Les-Assistantes-Maternelles-de-Nailloux/61552815610288/
+
+--text: #0a0008;
+--background: #fef1fd;
+--background: #FFE3FD;
+--primary: #f297e1;
+--secondary: #ddb388;
+--accent: #f9dc4e;
+--Autre: #95A7ED;
+https://www.gloomaps.com/wR43AowjC2
+https://www.realtimecolors.com/?colors=050315-fbfbfe-2f27ce-dedcff-433bff&fonts=Salsa-Asul
