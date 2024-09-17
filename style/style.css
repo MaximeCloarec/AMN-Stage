@@ -144,6 +144,7 @@ h3 {
 
 /* ----HeroSection---- */
 .heroSection {
+    -webkit-background-size: cover;
     background-image: url("../img/logoAssmat.jpg");
     background-attachment: fixed;
     background-position: top;
@@ -188,7 +189,7 @@ h3 {
 
 /* ----Activités---- */
 .activites {
-    background-color: #def8e7;
+    background-color: #4efa8a;
     padding: 60px 20px;
 }
 
