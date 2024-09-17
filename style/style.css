@@ -187,10 +187,39 @@ h3 {
     line-height: 2.5;
 }
 
+.mainsBleu-container {
+    position: relative;
+}
+
+.mainsBleu {
+    position: absolute;
+    top: -150px;
+    right: -200px;
+    width: 22vw;
+    z-index: 1;
+}
+
 /* ----Activités---- */
 .activites {
-    background-color: #fff6a5;
+    background-color: #fffecc;
     padding: 60px 20px;
+}
+
+.mainsRouge-container {
+    position: relative;
+}
+
+.mainsRouge {
+    position: absolute;
+    top: -240px;
+    left: -30px;
+    width: 20vw;
+    z-index: 1;
+}
+
+.activitesHead {
+    position: relative;
+    z-index: 0;
 }
 
 .activitesTitle {
@@ -237,6 +266,18 @@ h3 {
 }
 
 /* ----Actualités---- */
+.mainsViolette-container {
+    position: relative;
+}
+
+.mainsViolette {
+    position: absolute;
+    top: -200px;
+    right: 80px;
+    width: 15vw;
+    z-index: 1;
+}
+
 .actualites {
     background-color: #dce5fc;
     padding: 40px 20px;
@@ -287,6 +328,18 @@ h3 {
 }
 
 /* ----JoinUs---- */
+
+.mainsVerte-container {
+    position: relative;
+}
+
+.mainsVerte {
+    position: absolute;
+    top: -150px;
+    width: 10vw;
+    z-index: 1;
+}
+
 .joinUs {
     display: flex;
     justify-content: center;
